@@ -1,5 +1,7 @@
 {
-  "Initial": {}, 
+  "Initial": {
+    "wood": 2
+  }, 
   "Goal": {
     "stone_pickaxe": 1
   },
